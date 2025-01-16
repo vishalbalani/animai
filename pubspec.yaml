@@ -1,0 +1,99 @@
+name: animai
+description: "AI-powered photo editing application"
+
+publish_to: 'none'
+version: 1.0.1+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # UI Components
+  cupertino_icons: ^1.0.8
+  flutter_screenutil: ^5.9.3
+  flutter_svg: ^2.0.16
+  gap: ^3.0.1
+  shimmer: ^3.0.0
+  toastification: ^2.3.0
+
+  # State Management
+  flutter_bloc: ^8.1.6
+  flutter_riverpod: ^2.6.1
+  freezed: ^2.5.7
+  freezed_annotation: ^2.4.4
+
+  # Storage & Permissions
+  shared_preferences: ^2.3.3
+  shared_preferences_android: ^2.3.4
+  path_provider: ^2.1.5
+  permission_handler: ^11.3.1
+  path: ^1.9.0
+
+  # Image Processing
+  image_picker: ^1.1.2
+  crop_your_image: ^2.0.0
+
+  # Platform Integration
+  url_launcher: ^6.3.1
+  package_info_plus: ^8.1.2
+  flutter_local_notifications: ^18.0.1
+
+  # Localization
+  intl: ^0.19.0
+
+  # Dependency injection
+  get_it: ^8.0.3
+
+  # Share
+  share_plus: ^10.1.4
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+  # Development Tools
+  analyzer: ^6.7.0
+  lint: ^2.3.0
+  build_runner: ^2.4.14
+
+flutter:
+  uses-material-design: true
+  generate: true 
+
+  # Asset Configuration
+  assets:
+    - assets/img/    # Bitmap images
+    - assets/svg/    # Vector graphics
+    - assets/gif/    # Animated images
+    - assets/icon/   # App icons
+
+  # Typography Configuration
+  fonts:
+    # Primary Font - Inter
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/Inter/Inter-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Inter/Inter-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Inter/Inter-MediumItalic.ttf
+          style: italic
+          weight: 500
+        - asset: assets/fonts/Inter/Inter-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Inter/Inter-Bold.ttf
+          weight: 700
+    
+    # Display Font - Neue Machina
+    - family: NeueMachina
+      fonts:
+        - asset: assets/fonts/NeueMachina/NeueMachina-Ultrabold.ttf
+          weight: 800
+        - asset: assets/fonts/NeueMachina/NeueMachina-Regular.ttf
+          weight: 400

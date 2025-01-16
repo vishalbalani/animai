@@ -1,0 +1,307 @@
+{
+    "appName": "Anim AI",
+    "@appName": {
+        "description": "The application name"
+    },
+
+    "chooseSubscription": "Choose your\nSubscription Plan",
+    "@chooseSubscription": {
+        "description": "Subscription plan selection title"
+    },
+
+    "subscribeToPremiumAndGetAccess": "Subscribe to premium and get access to more features.",
+    "@subscribeToPremiumAndGetAccess": {
+        "description": "Subscription plan selection description"
+    },
+
+    "month": "Month",
+    "@month": {
+        "description": "Month option"
+    },
+
+    "year": "Year",
+    "@year": {
+        "description": "Year option"
+    },
+
+    "continue7DaysFreeTrial": "Continue 7 Days Free Trial",
+    "@continue7DaysFreeTrial": {
+        "description": "Continue 7 days free trial button"
+    },
+
+    "premium": "Premium",
+    "@premium": {
+        "description": "Premium option"
+    },
+
+    "subscribeNow": "Subscribe Now",
+    "@subscribeNow": {
+        "description": "Subscribe now button"
+    },
+
+    "subscription": "Subscription",
+    "@subscription": {
+        "description": "Subscription title"
+    },
+
+    "multipleAiModel": "Multiple AI Model",
+    "@multipleAiModel": {
+        "description": "Multiple AI Model option"
+    },
+
+    "imageEnhancement": "Image Enhancement",
+    "@imageEnhancement": {
+        "description": "Image Enhancement option"
+    },
+
+    "videoGeneration": "Video Generation",
+    "@videoGeneration": {
+        "description": "Video Generation option"
+    },
+
+    "uniqueAnimations": "Unique Animations",
+    "@uniqueAnimations": {
+        "description": "Unique Animations option"
+    },
+
+    "predefinedPrompts": "Predefined Prompts",
+    "@predefinedPrompts": {
+        "description": "Predefined Prompts option"
+    },
+
+    "monthAfter7DaysTrial": "month after 7 days trial",
+    "@monthAfter7DaysTrial": {
+        "description": "Month after 7 days trial option"
+    },
+
+    "home": "Home",
+    "@home": {
+        "description": "Home option"
+    },
+
+    "aiModels": "AI Models",
+    "@aiModels": {
+        "description": "AI Models option"
+    },
+
+    "projects": "Projects",
+    "@projects": {
+        "description": "Projects option"
+    },
+
+    "profile": "Profile",
+    "@profile": {
+        "description": "Profile option"
+    },
+
+    "noProjectsYet": "No Projects Yet",
+    "@noProjectsYet": {
+        "description": "No projects yet text"
+    },
+
+    "welcome": "Welcome",
+    "@welcome": {
+        "description": "Welcome text"
+    },
+
+    "soldier": "Soldier",
+    "@soldier": {
+        "description": "Soldier option"
+    },
+
+    "smilingChild": "Smiling Child",
+    "@smilingChild": {
+        "description": "Smiling Child option"
+    },
+
+    "tattooMan": "Tattoo Man",
+    "@tattooMan": {
+        "description": "Tattoo Man option"
+    },
+
+    "forYou": "For You",
+    "@forYou": {
+        "description": "For You option"
+    },
+
+    "viewAll": "View All",
+    "@viewAll": {
+        "description": "View All option"
+    },
+
+    "pro": "Pro",
+    "@pro": {
+        "description": "Pro option"
+    },
+
+    "yourGallery": "Your Gallery",
+    "@yourGallery": {
+        "description": "Your Gallery option"
+    },
+
+    "myCurrentPlan": "MY CURRENT PLAN",
+    "@myCurrentPlan": {
+        "description": "My Current Plan option"
+    },
+
+    "unsubscribe": "Unsubscribe",
+    "@unsubscribe": {
+        "description": "Unsubscribe option"
+    },
+
+    "notification": "Notification",
+    "@notification": {
+        "description": "Notification option"
+    },
+
+    "language": "Language",
+    "@language": {
+        "description": "Language option"
+    },
+
+    "languages": "Languages",
+    "@languages": {
+        "description": "Languages option"
+    },
+
+    "shareApp": "Share app",
+    "@shareApp": {
+        "description": "Share app option"
+    },
+
+    "rateUs": "Rate us",
+    "@rateUs": {
+        "description": "Rate us option"
+    },
+
+    "privacyPolicy": "Privacy & Policy",
+    "@privacyPolicy": {
+        "description": "Privacy & Policy option"
+    },
+
+    "version": "Version",
+    "@version": {
+        "description": "Version option"
+    },
+
+    "choosePhoto": "Choose Photo",
+    "@choosePhoto": {
+        "description": "Choose Photo option"
+    },
+
+    "takePhoto": "Take Photo",
+    "@takePhoto": {
+        "description": "Take photo option"
+    },
+
+    "uploadImage": "Upload Image",
+    "@uploadImage": {
+        "description": "Upload Image option"
+    },
+
+    "cropImage": "Crop Image",
+    "@cropImage": {
+        "description": "Crop Image option"
+    },
+
+    "editImage": "Edit Image",
+    "@editImage": {
+        "description": "Edit Image option"
+    },
+
+    "generateVideo": "Generate Video",
+    "@generateVideo": {
+        "description": "Generate Video option"
+    },
+
+    "original": "Original",
+    "@original": {
+        "description": "Original option"
+    },
+
+    "aiGenerated": "AI Generated",
+    "@aiGenerated": {
+        "description": "AI Generated option"
+    },
+
+    "models": "Models",
+    "@models": {
+        "description": "Models option"
+    },
+
+    "otherTemplates": "Other Templates",
+    "@otherTemplates": {
+        "description": "Other Templates option"
+    },
+
+    "useTemplate": "Use Template",
+    "@useTemplate": {
+        "description": "Use Template option"
+    },
+
+    "theJoyLooper": "The Joy Looper",
+    "@theJoyLooper": {
+        "description": "The Joy Looper option"
+    },
+
+    "addNewProject": "Add New Project",
+    "@addNewProject": {
+        "description": "Add New Project semantic label"
+    },
+
+    "navigationBar": "Navigation Bar",
+    "@navigationBar": {
+        "description": "Navigation Bar semantic label"
+    },
+
+    "subscriptionScreen": "Subscription Screen",
+    "@subscriptionScreen": {
+        "description": "Subscription Screen semantic label"
+    },
+
+    "appLogo": "App Logo",
+    "@appLogo": {
+        "description": "App Logo semantic label"
+    },
+
+    "subscriptionPurchaseScreen": "Subscription Purchase Screen",
+    "@subscriptionPurchaseScreen": {
+        "description": "Subscription Purchase Screen semantic label"
+    },
+
+    "subscriptionPurchaseSuccess": "Subscription Purchase Success",
+    "@subscriptionPurchaseSuccess": {
+        "description": "Subscription Purchase Success semantic label"
+    },
+
+    "processingSubscription": "Processing Subscription",
+    "@processingSubscription": {
+        "description": "Processing Subscription semantic label"
+    },
+
+    "premiumPlanDetails": "Premium Plan Details",
+    "@premiumPlanDetails": {
+        "description": "Premium Plan Details semantic label"
+    },
+
+    "premiumFeatures": "Premium Features",
+    "@premiumFeatures": {
+        "description": "Premium Features semantic label"
+    },
+
+    "per": "per",
+    "@per": {
+        "description": "Per option"
+    },
+
+    "back": "Back",
+    "@back": {
+        "description": "Back option"
+    },
+
+    "close": "Close",
+    "@close": {
+        "description": "Close option"
+    }
+}
+

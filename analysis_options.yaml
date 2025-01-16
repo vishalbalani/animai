@@ -1,0 +1,22 @@
+include: package:lint/analysis_options.yaml
+
+analyzer:
+  plugins:
+    - custom_lint
+  
+  errors:
+    avoid_dynamic_calls: ignore
+    avoid_setters_without_getters: ignore
+  exclude:
+    - "**.freezed.dart"
+    - "**.g.dart"
+    - "**_options.dart"
+
+custom_lint:
+  debug: true
+  verbose: true
+
+linter:
+  rules:
+    directives_ordering: false
+    sort_pub_dependencies: false
