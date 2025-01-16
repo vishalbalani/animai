@@ -3,7 +3,6 @@ import 'package:animai/src/features/ai_models/presentation/widgets/featured_temp
 import 'package:animai/src/features/ai_models/presentation/widgets/other_templates.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:gap/gap.dart';
 
 class AiModelsView extends StatefulWidget {
   const AiModelsView({super.key});
@@ -58,10 +57,7 @@ class _AiModelsViewState extends State<AiModelsView>
           // Other templates with staggered animations
           ...otherTemplates(context, otherModels, _controller),
 
-          SliverPadding(padding: EdgeInsets.only(bottom: 16.h)),
-          SliverToBoxAdapter(
-            child: Gap(24.h),
-          ),
+          SliverPadding(padding: EdgeInsets.only(bottom: 58.h)),
         ],
       ),
     );

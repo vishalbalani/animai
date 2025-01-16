@@ -28,7 +28,11 @@ List<Widget> otherTemplates(
     ),
     // Grid with staggered animations
     SliverPadding(
-      padding: EdgeInsets.symmetric(horizontal: AppPadding.horizontalPadding.w),
+      padding: EdgeInsets.only(
+        left: AppPadding.horizontalPadding.w,
+        right: AppPadding.horizontalPadding.w,
+        bottom: 58.h,
+      ),
       sliver: SliverGrid(
         gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
           crossAxisCount: 3,
